@@ -1,0 +1,7 @@
+C:\Users\jose_\Documents\Ejercicios Visual Studio\Curso C#\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\jose_\Documents\Ejercicios Visual Studio\Curso C#\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\jose_\Documents\Ejercicios Visual Studio\Curso C#\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\jose_\Documents\Ejercicios Visual Studio\Curso C#\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\jose_\Documents\Ejercicios Visual Studio\Curso C#\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\jose_\Documents\Ejercicios Visual Studio\Curso C#\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\jose_\Documents\Ejercicios Visual Studio\Curso C#\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
